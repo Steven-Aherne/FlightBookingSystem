@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring clone="true" comment="Infer generic type arguments on &apos;Flight_system&apos;&#x0D;&#x0A;- Original project: &apos;Flight_system&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     flightbookingsystem.Login.java&#x0D;&#x0A;- Assume clone() returns an instance of the receiver type&#x0D;&#x0A;- Leave unconstrained type arguments raw" description="Infer generic type arguments" element1="/src&lt;flightbookingsystem{Login.java" flags="6" id="org.eclipse.jdt.ui.infer.typearguments" leave="true" stamp="1574902545113" version="1.0"/>
+</session>
